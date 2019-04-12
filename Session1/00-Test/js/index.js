@@ -33,7 +33,7 @@ function geometry(){
   scene.add( mesh );
 }
 
-// Render Loop
+  // Render Loop
 var render = function () {
   requestAnimationFrame( render );
 
